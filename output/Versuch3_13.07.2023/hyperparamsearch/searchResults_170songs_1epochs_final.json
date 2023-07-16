@@ -1,0 +1,13 @@
+[
+{
+"compression_ratio": 0.2,
+"numDense": 1,
+"numConv": 64,
+"numConvLayer": 6,
+"best_val_epoch": 53,
+"best_val_si_snr": 34.16131591796875,
+"best_val_loss": 0.01496523804962635,
+"best_train_si_snr": 33.18006896972656,
+"best_train_loss": 0.019228575751185417
+}
+]
